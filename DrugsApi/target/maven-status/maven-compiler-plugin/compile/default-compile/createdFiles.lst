@@ -1,0 +1,17 @@
+opendata\drugs\api\config\Settings$SettingsHolder.class
+opendata\drugs\api\restservice\DrugsRestService.class
+opendata\drugs\api\uri\UriGenerator.class
+opendata\drugs\api\database\HibernateUtil.class
+opendata\drugs\api\filters\CORSFilter.class
+opendata\drugs\api\config\Settings$1.class
+opendata\drugs\api\services\DrugsServices.class
+opendata\drugs\api\config\Config.class
+opendata\drugs\api\rest\parsers\DrugJsonParser.class
+opendata\drugs\api\rest\name\RestServiceName.class
+opendata\drugs\api\dao\DrugsDao.class
+opendata\drugs\api\config\QueryConfig.class
+opendata\drugs\api\domain\Drug.class
+opendata\drugs\api\services\DrugsServicesImp.class
+opendata\drugs\api\config\UriConfig.class
+opendata\drugs\api\config\Settings.class
+opendata\drugs\api\config\DbConfig.class

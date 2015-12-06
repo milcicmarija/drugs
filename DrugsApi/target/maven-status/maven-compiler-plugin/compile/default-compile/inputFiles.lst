@@ -1,0 +1,15 @@
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\config\DbConfig.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\rest\name\RestServiceName.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\domain\Drug.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\uri\UriGenerator.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\dao\DrugsDao.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\restservice\DrugsRestService.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\filters\CORSFilter.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\services\DrugsServices.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\config\Config.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\database\HibernateUtil.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\config\QueryConfig.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\services\DrugsServicesImp.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\config\UriConfig.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\config\Settings.java
+C:\Users\marij\workspace\DrugsApi\src\main\java\opendata\drugs\api\rest\parsers\DrugJsonParser.java

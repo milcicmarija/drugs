@@ -1,0 +1,14 @@
+{
+  "dbConfig": {
+    "url": "jdbc:mysql://lekoviHakaton.db.10035651.hostedresource.com/lekoviHakaton",
+    "user": "lekoviHakaton",
+    "pass": "Hakaton2015!!",
+    "poolSize": 10
+  },
+  "query": {
+    "limit": 10
+  },
+  "uriGenerator": {
+    "uriPrefix": "http://opendata.drugs"
+  }
+}
